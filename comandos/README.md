@@ -26,4 +26,4 @@ python manage.py migrate
 criando e modificando a senha de sum super usuario Django
 
 python3 manage.py createsuperuser
-python3 manage. py changepassword USERNAMe
+python3 manage. py changepassword USERNAME #para alterar a senha se vc esquceu o seuperuser
